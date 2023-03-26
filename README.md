@@ -8,9 +8,12 @@ Soy una tester de software apasionada por la calidad y el éxito de los producto
 
 Neoris - Quality Assurance - [Noviembre 2022 - Actualidad]
 
-📝 Responsable de la ejecución de pruebas manuales.
+📝 Responsable de la ejecución de pruebas manuales
+
 🤝 Colaboro con el equipo de desarrollo en la identificación y corrección de defectos
+
 🚀 Realizo pruebas funcionales
+
 🔍 Reporto y verifico errores en el sistema
 
 🔧 Habilidades
@@ -29,13 +32,14 @@ Realicé la automatización de una tienda demo para mejorar mis habilidades en e
 
 🔍 Habilidades de comunicación
 
-Excelentes habilidades de comunicación verbal y escrita
-Habilidad para trabajar en equipo y colaborar con otros departamentos
-Experiencia en la preparación de informes de errores y presentaciones para el equipo de gestión
++ Excelentes habilidades de comunicación verbal y escrita
++ Habilidad para trabajar en equipo y colaborar con otros departamentos
++ Experiencia en la preparación de informes de errores y presentaciones para el equipo de gestión
 
 📫 Contacto
 
 LinkedIn: https://www.linkedin.com/in/josefina-acevedo-324230158/
+
 Correo electrónico: josefina.acevedo95@gmail.com
 
 
