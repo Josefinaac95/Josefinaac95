@@ -1,12 +1,12 @@
 👋 ¡Hola, soy Josefina Acevedo!
 
-🧐 Sobre mí
+🧐 *Sobre mí*
 
 Soy una tester de software apasionada por la calidad y el éxito de los productos que pruebo. Tengo experiencia en 💻 testing manual, 🤖conocimiento básico de testing automatizado y 📊 SQL. Me encanta aprender nuevas tecnologías y metodologías de testing. Me considero una persona detallista, proactiva y con habilidades de comunicación efectiva.
 
-🚀 Experiencia
+🚀 *Experiencia*
 
-Neoris - Quality Assurance - [Noviembre 2022 - Actualidad]
+**Neoris - Quality Assurance - [Noviembre 2022 - Actualidad]**
 
 📝 Responsable de la ejecución de pruebas manuales
 
@@ -16,7 +16,7 @@ Neoris - Quality Assurance - [Noviembre 2022 - Actualidad]
 
 🔍 Reporto y verifico errores en el sistema
 
-🔧 Habilidades
+🔧 *Habilidades*
 
 - Testing manual
 - Testing automatizado
@@ -25,18 +25,19 @@ Neoris - Quality Assurance - [Noviembre 2022 - Actualidad]
 - TFS
 - Metodologías ágiles
 
-🌟 Proyectos personales
+🌟 *Proyectos personales*
 
 **Automatización de página Demoblaze utilizando Cypress y JavaScript** 
+
 Realicé la automatización de una tienda demo para mejorar mis habilidades en el testing automatizado y la automatización de pruebas.
 
-🔍 Habilidades de comunicación
+🔍 *Habilidades de comunicación*
 
 + Excelentes habilidades de comunicación verbal y escrita
 + Habilidad para trabajar en equipo y colaborar con otros departamentos
 + Experiencia en la preparación de informes de errores y presentaciones para el equipo de gestión
 
-📫 Contacto
+📫 *Contacto*
 
 LinkedIn: https://www.linkedin.com/in/josefina-acevedo-324230158/
 
