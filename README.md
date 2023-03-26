@@ -15,12 +15,12 @@ Neoris - Quality Assurance - [Noviembre 2022 - Actualidad]
 
 🔧 Habilidades
 
-Testing manual
-Testing automatizado
-SQL
-Cypress
-TFS
-Metodologías ágiles
+- Testing manual
+- Testing automatizado
+- SQL
+- Cypress
+- TFS
+- Metodologías ágiles
 
 🌟 Proyectos personales
 
