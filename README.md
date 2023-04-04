@@ -29,7 +29,9 @@ Soy una tester de software apasionada por la calidad y el éxito de los producto
 
 **Automatización de página Demoblaze utilizando Cypress y JavaScript** 
 
-Realicé la automatización de una tienda demo para mejorar mis habilidades en el testing automatizado y la automatización de pruebas.
+**Automatización de un formulario de compra utilizando Cypress y JavaScript**
+
+Realicé estas automatizaciones para mejorar mis habilidades en el testing automatizado y la automatización de pruebas.
 
 🔍 *Habilidades de comunicación*
 
