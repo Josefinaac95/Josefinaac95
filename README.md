@@ -6,7 +6,7 @@
 
 ## 🧐 Sobre mí
 
-Soy **Analista Funcional** en **NEORIS**, donde crecí desde el rol de Tester hasta el análisis de requerimientos. Me apasionan la **calidad del software** y entender el negocio detrás de cada sistema. Actualmente estudio la **Tecnicatura Universitaria en Tecnología de la Información (UTN)** y estoy sumando el mundo del **desarrollo** (Java + Spring Boot, bases de datos, redes).
+Soy **Analista Funcional** en **NEORIS/EPAM**, donde crecí desde el rol de Tester hasta el análisis de requerimientos. Me apasionan la **calidad del software** y entender el negocio detrás de cada sistema. Actualmente estudio la **Tecnicatura Universitaria en Tecnología de la Información (UTN)** y estoy sumando el mundo del **desarrollo** (Java + Spring Boot, bases de datos, redes).
 
 🔎 Detallista, proactiva y con foco en la comunicación efectiva entre equipos técnicos y de negocio.
 
