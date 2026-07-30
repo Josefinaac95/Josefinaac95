@@ -51,13 +51,6 @@ Soy **Analista Funcional** en **NEORIS**, donde crecí desde el rol de Tester ha
 
 ---
 
-## 📊 Mis estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josefinaac95&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josefinaac95&layout=compact&hide_border=true)
-
----
-
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josefina-acevedo/)
